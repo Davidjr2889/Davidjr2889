@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Davidjr2889 Engenheiro de Automação e atual estudante de engenharia em software.
-- 👀 I’m interested in  Machine Learning e desenvolvimento de software. Estou aberto a novos desafios.
-- 🌱 I’m currently learning  Data Science  na instituição Awari
-- 💞️ I’m looking to collaborate em alguma empresa  que precise estagiario de machine learning ou desenvolvedor.
-- 📫 email: j.conts89@gmail.com / +5521965585304
+## Oiii eu sou o David Junior, Engenheiro de Automação e Cientista de dados!
+- 👀 Atualmente trabalho com Ciencia de dados
+- 🌱 Estou estudando Engenharia de Software
 
-<!---
-Davidjr2889/Davidjr2889 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
