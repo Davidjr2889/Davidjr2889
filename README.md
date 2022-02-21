@@ -1,4 +1,7 @@
-##  Oiii eu sou o David Junior, engenheiro de automação e estudante de engenharia em software!
+## David Junior
+Morei 11 anos no chile, tenho fluencia em português, espanhol e um ingles tecnico avançado.   
+Sou engenheiro de controle e automação formado , estudante de engenharia em software e atualmente em transiçao de carreira para area de dados.
+Estou interessado em Ciencia de  Dados | Analista de BI |  Machine Learings.
 
 <div align="center">
   <a href="https://github.com/Davidjr2889">
