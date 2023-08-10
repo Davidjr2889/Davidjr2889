@@ -1,7 +1,5 @@
 ## David Junior
-Morei 11 anos no chile, tenho fluencia em espanhol, portugues e um ingles tecnico avançado.   
-Sou engenheiro de controle e automação formado , estudante de engenharia em software 
-
+Data engineer
 <div align="center">
   <a href="https://github.com/Davidjr2889">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidjr2889&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
