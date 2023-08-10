@@ -1,7 +1,6 @@
 ## David Junior
-Morei 11 anos no chile, tenho fluencia em português, espanhol e um ingles tecnico avançado.   
-Sou engenheiro de controle e automação formado , estudante de engenharia em software e atualmente em transiçao de carreira para area de dados.
-Estou interessado em Ciencia de  Dados | Analista de BI |  Machine Learings.
+Morei 11 anos no chile, tenho fluencia em espanhol, portugues e um ingles tecnico avançado.   
+Sou engenheiro de controle e automação formado , estudante de engenharia em software 
 
 <div align="center">
   <a href="https://github.com/Davidjr2889">
